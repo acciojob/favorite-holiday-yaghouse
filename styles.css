@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+h1 {
+	background-color:darkgray;
+	color:black;
+}
+p {
+	background-color:black;
+	color:darkgoldenrod;
+}
+
+ol {
+	
+	background-color:darkkhaki
+}
+ol li {
+	color:black	
+}
+
